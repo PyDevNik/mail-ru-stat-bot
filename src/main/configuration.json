@@ -1,0 +1,6 @@
+{
+    "refresh_token":"mail_ru_refreh_token",
+    "bot_token": "bot_token",
+    "admins": ["admin_usernames"],
+    "domain": "domain"
+}
