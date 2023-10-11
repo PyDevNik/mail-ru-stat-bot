@@ -5,7 +5,7 @@ import messages as msgs
 from aiogram import Bot, Dispatcher
 from aiogram.types import Message
 from aiogram.utils import executor
-from os import getenv
+import os
 from domain_parser import create_stats_table
 
 REFRESH_TOKEN = os.getenv('refresh_token')
